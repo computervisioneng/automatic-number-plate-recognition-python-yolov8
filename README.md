@@ -1,5 +1,12 @@
 # automatic-number-plate-recognition-python-yolov8
 
+<p align="center">
+<a href="https://www.youtube.com/watch?v=fyJB1t0o0ms">
+    <img width="600" src="https://utils-computervisiondeveloper.s3.amazonaws.com/thumbnails/with_play_button/anpr_yolo.jpg" alt="Watch the video">
+    </br>Watch on YouTube: Automatic number plate recognition with Python, Yolov8 and EasyOCR !
+</a>
+</p>
+
 ## results
 
 ## data
